@@ -1,3 +1,3 @@
 # sajojo
-Personal repository
+About Me
 I love football
